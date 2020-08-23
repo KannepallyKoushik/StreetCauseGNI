@@ -1,0 +1,14 @@
+admin/*.DS_Store
+admin/*.log
+admin/*.zip
+admin/.idea
+admin/.sass-cache/
+admin/nbproject/
+admin/nbproject/private/
+admin/node_modules/
+admin/ad.js
+admin/TODO
+admin/test.html
+admin/pages/*/**
+admin/gallery/
+admin/documentation/
